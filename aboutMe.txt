@@ -2,6 +2,6 @@
 
 - My major is Computer Science.
 
-- My programming languages: C++, Java.
+- My programming languages: C++, Java, Python.
 
 - I'm taking Programming 3 with Professor Everett Percy!
