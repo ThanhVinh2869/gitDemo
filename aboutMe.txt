@@ -1,6 +1,6 @@
 - Hello! My name in Vincent!
 
-- My major is Computer Science.
+- My major is Cloud Computing.
 
 - My programming languages: C++, Java, Python.
 
