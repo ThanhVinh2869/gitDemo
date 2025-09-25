@@ -1,6 +1,6 @@
 - Hello! My name in Vincent!
 
-- My major is Computer Science.
+- My major is Cyber Security.
 
 - My programming languages: C++, Java, Python.
 
