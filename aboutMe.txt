@@ -1,5 +1,7 @@
 - Hello! My name in Vincent!
 
+- My phone number is 000-0000-0000.
+
 - My major is Cyber Security.
 
 - My programming languages: C++, Java, Python.
