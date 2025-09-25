@@ -2,6 +2,8 @@
 
 - My phone number is 000-0000-0000.
 
+- My birthday is 01/01/2000.
+
 - My major is Cyber Security.
 
 - My programming languages: C++, Java, Python.
