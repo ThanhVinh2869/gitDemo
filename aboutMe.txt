@@ -1,0 +1,7 @@
+- Hello! My name in Vincent!
+
+- My major is Computer Science.
+
+- My programming languages: C++, Java.
+
+- I'm taking Programming 3 with Professor Kevin Roark!
